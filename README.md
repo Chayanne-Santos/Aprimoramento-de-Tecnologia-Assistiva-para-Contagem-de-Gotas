@@ -11,7 +11,7 @@ Esquemático do Projeto
 
 ![Contagem de Gotas](https://github.com/Chayanne-Santos/Aprimoramento-de-Tecnologia-Assistiva-para-Contagem-de-Gotas/assets/154844446/56f4c5ad-5f8e-404a-8895-f2fb2f8920ac)
 
-Testes de Funcionalidade
+Teste de Funcionalidade
 ===
 
-https://youtu.be/eyHqEvfFRAo
+Link: https://youtu.be/eyHqEvfFRAo
